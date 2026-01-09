@@ -52,6 +52,4 @@ If you plan to improve or reuse this project:
 
 This project is licensed under the MIT License. See the **LICENSE** file for details.
 
----
 
-✨ *Made with Lovable — build apps faster with AI.* :contentReference[oaicite:4]{index=4}
